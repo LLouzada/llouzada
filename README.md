@@ -10,13 +10,7 @@
 </p>
 
 
-
-
 <p align="center"> <img src="https://github.com/llouzada/llouzada/blob/output/github-snake-dark.svg" alt="llouzada" /> </p>
-
-<p align="right"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=llouzada&theme=darkhub&rank=-C,-B" alt="llouzada" /></a> </p>
-
-
 
 <br><br><br>
 <p align="center"> 
@@ -38,3 +32,5 @@
 <div align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=llouzada&theme=onedark" alt="llouzada" />
 </div>
+<br><br><br>
+<p align="right"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=llouzada&theme=darkhub&rank=-C,-B" alt="llouzada" /></a> </p>
