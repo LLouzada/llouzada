@@ -1,5 +1,7 @@
 
-<h3 align="center">Informática Biomédica - USP 🖥️ - Full Stack Mobile Developer 📱 - DevOps Enthusiast 📊 - Tech geek 😁</h3>
+<h3 align="center"> Full Stack Mobile Developer / Informática Biomédica - USP / - DevOps Enthusiast / - Tech geek </h3>
+
+![snake animation](https://github.com/llouzada/llouzada/blob/output/github-contribution-grid-snake2.svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=llouzada&label=Profile%20views&color=0e75b6&style=flat&theme=onedark" alt="llouzada" /> </p>
 
