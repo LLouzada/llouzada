@@ -1,7 +1,8 @@
 
 <h3 align="center"> Full Stack Mobile Developer / Informática Biomédica - USP / - DevOps Enthusiast / - Tech geek </h3>
 
-![snake animation](https://github.com/llouzada/llouzada/blob/output/github-contribution-grid-snake2.svg)
+
+![GitHub Snake](https://github.com/llouzada/llouzada/blob/aed6c2289e9a26c5b6185ba3a48d4294b76340db/github-snake-dark.svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=llouzada&label=Profile%20views&color=0e75b6&style=flat&theme=onedark" alt="llouzada" /> </p>
 
