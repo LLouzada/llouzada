@@ -1,5 +1,5 @@
 
-<h3 align="center"> Full Stack Mobile Developer 📱 Informática Biomédica USP  - DevOps Enthusiast - Tech geek </h3><br>
+<h3 align="center"> Full Stack Mobile Developer 📱 </h3><br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=llouzada&label=Profile%20views&color=0e75b6&style=flat&theme=onedark" alt="llouzada" /> </p>
 <p align="center">
