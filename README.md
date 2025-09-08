@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=llouzada&label=Profile%20views&color=0e75b6&style=flat&theme=onedark" alt="llouzada" /> </p>
 <p align="center">
-  <a href="https://linkedin.com/in/lucas-louzada-543859231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucas-louzada-543859231" height="60" width="80" /></a>
+ <!-- <a href="https://linkedin.com/in/lucas-louzada-543859231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucas-louzada-543859231" height="60" width="80" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-<!--  <a href="https://loumad-soft.com" target="blank"><img align="center" src="https://github.com/LLouzada/llouzada/blob/main/loumad-logo.png?raw=true" height="80" width="80" /></a> -->
+ <a href="https://loumad-soft.com" target="blank"><img align="center" src="https://github.com/LLouzada/llouzada/blob/main/loumad-logo.png?raw=true" height="80" width="80" /></a> -->
   
 </p>
 
